@@ -21,7 +21,7 @@ Then dataframe contains five columns:
 Spending score is the score given to customers by the mall based on how much they spent in the mall. The more a customer spends, the higher his spending score.
 
 
-## Exploratory Data Anal
+## Exploratory Data Analysis
 <img width="900" alt="SpendingScore_Histogram" src="https://user-images.githubusercontent.com/41455772/159688101-42511740-4528-45a8-bf1c-93ca36715a6a.png">
 <img width="892" alt="Income_Gender" src="https://user-images.githubusercontent.com/41455772/159688109-2a942a8f-90c6-4542-ba03-489b97b815fb.png">
 <img width="914" alt="SpendingScore_Gender" src="https://user-images.githubusercontent.com/41455772/159688115-bcca9496-b0fa-4f88-ab38-83a7148dbd69.png">
