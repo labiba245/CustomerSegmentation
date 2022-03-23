@@ -19,3 +19,7 @@ Then dataframe contains five columns:
 - Spending score (1-100)
 
 Spending score is the score given to customers by the mall based on how much they spent in the mall. The more a customer spends, the higher his spending score.
+
+
+## Exploratory Data Analysis
+![Density Plot of Age](Age_DensityPlot.png)
