@@ -32,8 +32,9 @@ Spending score is the score given to customers by the mall based on how much the
 The purpose of customer segmentation is to divide the customers based on thier age, income and spending score using an unsupervised machine learning algorithm called k-Means Clustering. To find the optimal number of clusters, the elbow method has been used. 
 
 The results of clustering are as follows:
+![Age SpendingScore](https://user-images.githubusercontent.com/41455772/159687782-81c67c76-0077-4eb9-a38b-eb5915b8c14c.png)
 
-![Clustering using age and spending score][Age&SpendingScore.png]
-![Clustering using annual income and spending score][AnnualIncome&SpendingScore.png]
-![Clustering using age, annual income and spending score][3dcluster.png]
-![AnnualIncome SpendingScore](https://user-images.githubusercontent.com/41455772/159687660-0e5d6586-28bd-4c41-80c0-1883a8c969b2.png)
+![AnnualIncome SpendingScore](https://user-images.githubusercontent.com/41455772/159687808-8221ff15-8a4b-4e5e-85f1-fd0d0edd1c34.png)
+
+![3dcluster](https://user-images.githubusercontent.com/41455772/159687835-907042b6-f670-4e37-b6ce-e7ae8b8f1c81.png)
+
